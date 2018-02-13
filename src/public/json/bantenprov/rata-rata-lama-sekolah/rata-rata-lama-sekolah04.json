@@ -1,0 +1,358 @@
+[
+  {
+    "chartdata": {
+      "grafik": [
+        {
+          "2010": [
+            {
+              "Tahun":"2010",
+              "wilayah": "Kabupaten",
+              "name": "Pandeglang",
+              "tingkat": "dua",
+              "data": "6,33"
+            },
+            {
+              "Tahun":"2010",
+              "wilayah": "Kabupaten",
+              "name": "Lebak",
+              "tingkat": "dua",
+              "data": "5,34"
+            },
+            {
+              "Tahun":"2010",
+              "wilayah": "Kabupaten",
+              "name": "Tangerang",
+              "tingkat": "dua",
+              "data": "7,85"
+            },
+            {
+              "Tahun":"2010",
+              "wilayah": "Kabupaten",
+              "name": "Serang",
+              "tingkat": "dua",
+              "data": "6,07"
+            },
+            {
+              "Tahun":"2010",
+              "wilayah": "Kota",
+              "name": "Tangerang",
+              "tingkat": "dua",
+              "data": "9,64"
+            },
+            {
+              "Tahun":"2010",
+              "wilayah": "Kota",
+              "name": "Cilegon",
+              "tingkat": "dua",
+              "data": "8,71"
+            },
+            {
+              "Tahun":"2010",
+              "wilayah": "Kota",
+              "name": "Serang",
+              "tingkat": "dua",
+              "data": "8,32"
+            },
+            {
+              "Tahun":"2010",
+              "wilayah": "Kota",
+              "name": "Tangerang Selatan",
+              "tingkat": "dua",
+              "data": "0"
+            }
+          ],
+          "2011": [
+            {
+              "Tahun":"2011",
+              "wilayah": "Kabupaten",
+              "name": "Pandeglang",
+              "tingkat": "dua",
+              "data": "6,38"
+            },
+            {
+              "Tahun":"2011",
+              "wilayah": "Kabupaten",
+              "name": "Lebak",
+              "tingkat": "dua",
+              "data": "5,58"
+            },
+            {
+              "Tahun":"2011",
+              "wilayah": "Kabupaten",
+              "name": "Tangerang",
+              "tingkat": "dua",
+              "data": "7,96"
+            },
+            {
+              "Tahun":"2011",
+              "wilayah": "Kabupaten",
+              "name": "Serang",
+              "tingkat": "dua",
+              "data": "6,31"
+            },
+            {
+              "Tahun":"2011",
+              "wilayah": "Kota",
+              "name": "Tangerang",
+              "tingkat": "dua",
+              "data": "9,75"
+            },
+            {
+              "Tahun":"2011",
+              "wilayah": "Kota",
+              "name": "Cilegon",
+              "tingkat": "dua",
+              "data": "8,93"
+            },
+            {
+              "Tahun":"2011",
+              "wilayah": "Kota",
+              "name": "Serang",
+              "tingkat": "dua",
+              "data": "8,39"
+            },
+            {
+              "Tahun":"2011",
+              "wilayah": "Kota",
+              "name": "Tangerang Selatan",
+              "tingkat": "dua",
+              "data": "10,87"
+            }
+          ],
+          "2012": [
+            {
+              "Tahun":"2012",
+              "wilayah": "Kabupaten",
+              "name": "Pandeglang",
+              "tingkat": "dua",
+              "data": "6,43"
+            },
+            {
+              "Tahun":"2012",
+              "wilayah": "Kabupaten",
+              "name": "Lebak",
+              "tingkat": "dua",
+              "data": "5,70"
+            },
+            {
+              "Tahun":"2012",
+              "wilayah": "Kabupaten",
+              "name": "Tangerang",
+              "tingkat": "dua",
+              "data": "8.07"
+            },
+            {
+              "Tahun":"2012",
+              "wilayah": "Kabupaten",
+              "name": "Serang",
+              "tingkat": "dua",
+              "data": "6,57"
+            },
+            {
+              "Tahun":"2012",
+              "wilayah": "Kota",
+              "name": "Tangerang",
+              "tingkat": "dua",
+              "data": "9,76"
+            },
+            {
+              "Tahun":"2012",
+              "wilayah": "Kota",
+              "name": "Cilegon",
+              "tingkat": "dua",
+              "data": "9,29"
+            },
+            {
+              "Tahun":"2012",
+              "wilayah": "Kota",
+              "name": "Serang",
+              "tingkat": "dua",
+              "data": "8,48"
+            },
+            {
+              "Tahun":"2012",
+              "wilayah": "Kota",
+              "name": "Tangerang Selatan",
+              "tingkat": "dua",
+              "data": "11,09"
+            }
+          ],
+          "2013": [
+            {
+              "Tahun":"2013",
+              "wilayah": "Kabupaten",
+              "name": "Pandeglang",
+              "tingkat": "dua",
+              "data": "6,44"
+            },
+            {
+              "Tahun":"2013",
+              "wilayah": "Kabupaten",
+              "name": "Lebak",
+              "tingkat": "dua",
+              "data": "5,81"
+            },
+            {
+              "Tahun":"2013",
+              "wilayah": "Kabupaten",
+              "name": "Tangerang",
+              "tingkat": "dua",
+              "data": "8,18"
+            },
+            {
+              "Tahun":"2013",
+              "wilayah": "Kabupaten",
+              "name": "Serang",
+              "tingkat": "dua",
+              "data": "6,65"
+            },
+            {
+              "Tahun":"2013",
+              "wilayah": "Kota",
+              "name": "Tangerang",
+              "tingkat": "dua",
+              "data": "9,82"
+            },
+            {
+              "Tahun":"2013",
+              "wilayah": "Kota",
+              "name": "Cilegon",
+              "tingkat": "dua",
+              "data": "9,60"
+            },
+            {
+              "Tahun":"2013",
+              "wilayah": "Kota",
+              "name": "Serang",
+              "tingkat": "dua",
+              "data": "8,56"
+            },
+            {
+              "Tahun":"2013",
+              "wilayah": "Kota",
+              "name": "Tangerang Selatan",
+              "tingkat": "dua",
+              "data": "11,48"
+            }
+          ],
+          "2014": [
+            {
+              "Tahun":"2014",
+              "wilayah": "Kabupaten",
+              "name": "Pandeglang",
+              "tingkat": "dua",
+              "data": "6,45"
+            },
+            {
+              "Tahun":"2014",
+              "wilayah": "Kabupaten",
+              "name": "Lebak",
+              "tingkat": "dua",
+              "data": "5,84"
+            },
+            {
+              "Tahun":"2014",
+              "wilayah": "Kabupaten",
+              "name": "Tangerang",
+              "tingkat": "dua",
+              "data": "8,20"
+            },
+            {
+              "Tahun":"2014",
+              "wilayah": "Kabupaten",
+              "name": "Serang",
+              "tingkat": "dua",
+              "data": "6,69"
+            },
+            {
+              "Tahun":"2014",
+              "wilayah": "Kota",
+              "name": "Tangerang",
+              "tingkat": "dua",
+              "data": "10,20"
+            },
+            {
+              "Tahun":"2014",
+              "wilayah": "Kota",
+              "name": "Cilegon",
+              "tingkat": "dua",
+              "data": "9,66"
+            },
+            {
+              "Tahun":"2014",
+              "wilayah": "Kota",
+              "name": "Serang",
+              "tingkat": "dua",
+              "data": "8,58"
+            },
+            {
+              "Tahun":"2014",
+              "wilayah": "Kota",
+              "name": "Tangerang Selatan",
+              "tingkat": "dua",
+              "data": "11,56"
+            }
+          ],
+          "2015": [
+            {
+              "Tahun":"2015",
+              "wilayah": "Kabupaten",
+              "name": "Pandeglang",
+              "tingkat": "dua",
+              "data": "6,60"
+            },
+            {
+              "Tahun":"2015",
+              "wilayah": "Kabupaten",
+              "name": "Lebak",
+              "tingkat": "dua",
+              "data": "5,86"
+            },
+            {
+              "Tahun":"2015",
+              "wilayah": "Kabupaten",
+              "name": "Tangerang",
+              "tingkat": "dua",
+              "data": "8,22"
+            },
+            {
+              "Tahun":"2015",
+              "wilayah": "Kabupaten",
+              "name": "Serang",
+              "tingkat": "dua",
+              "data": "6,90"
+            },
+            {
+              "Tahun":"2015",
+              "wilayah": "Kota",
+              "name": "Tangerang",
+              "tingkat": "dua",
+              "data": "10,20"
+            },
+            {
+              "Tahun":"2015",
+              "wilayah": "Kota",
+              "name": "Cilegon",
+              "tingkat": "dua",
+              "data": "9,67"
+            },
+            {
+              "Tahun":"2015",
+              "wilayah": "Kota",
+              "name": "Serang",
+              "tingkat": "dua",
+              "data": "8,59"
+            },
+            {
+              "Tahun":"2015",
+              "wilayah": "Kota",
+              "name": "Tangerang Selatan",
+              "tingkat": "dua",
+              "data": "11,57"
+            }
+        ]
+        }
+      ]
+    }
+  }
+]
