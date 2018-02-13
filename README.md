@@ -10,4 +10,5 @@
 [![Monthly Downloads](https://poser.pugx.org/bantenprov/rata-rata-lama-sekolah/d/monthly)](https://packagist.org/packages/bantenprov/rata-rata-lama-sekolah)
 [![Daily Downloads](https://poser.pugx.org/bantenprov/rata-rata-lama-sekolah/d/daily)](https://packagist.org/packages/bantenprov/rata-rata-lama-sekolah)
 
+
 Rata-rata Lama Sekolah (RLS) Menurut Kabupaten/Kota 
