@@ -1,5 +1,5 @@
 {
-    "name": "bantenprov/rata-rata-lama-skolah",
+    "name": "bantenprov/rata-rata-lama-sekolah",
     "description": "Jumlah penduduk berdasarkan wajib KTP per desa/kelurahan",
     "authors": [
         {
@@ -9,9 +9,9 @@
     ],
     "license": "MIT",
     "support": {
-      "source": "https://github.com/bantenprov/rata-rata-lama-skolah,",
-      "issues": "https://github.com/bantenprov/rata-rata-lama-skolah/issues",
-      "wiki": "https://github.com/bantenprov/rata-rata-lama-skolah/wiki"
+      "source": "https://github.com/bantenprov/rata-rata-lama-sekolah,",
+      "issues": "https://github.com/bantenprov/rata-rata-lama-sekolah/issues",
+      "wiki": "https://github.com/bantenprov/rata-rata-lama-sekolah/wiki"
     },
     "require": {
         "php": ">=5.6.4",
